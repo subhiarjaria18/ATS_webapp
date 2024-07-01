@@ -59,5 +59,5 @@ Resume Evaluator is a web application designed to help you optimize your resume 
     - Paste the job description in the designated area.
     - Click "Submit" to receive the analysis.
 
-## Project Structure
+
 
