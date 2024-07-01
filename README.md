@@ -2,6 +2,10 @@
 
 Resume Evaluator is a web application designed to help you optimize your resume for Applicant Tracking Systems (ATS). By analyzing your resume against a given job description, the app provides a percentage match, highlights missing keywords, and offers a detailed summary of your resume's strengths and areas for improvement.
 
+![interface](1.png)
+
+
+
 ## Features
 
 - Analyze your resume against a job description.
